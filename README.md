@@ -3,3 +3,4 @@ Recode the system command ls
 
 # Notes
 - libft missing to compile
+- code not documented
